@@ -1,0 +1,2 @@
+# Las citas rechazadas se registran aqui con fecha, idCita, motivo y payload.
+2026-06-04T10:47:34.555770 | idCita=CITA-ERROR | motivo=paciente es obligatorio; correo es obligatorio; especialidad es obligatoria; fechaCita es obligatoria; sede es obligatoria; valor debe ser mayor a 0 | payload={"idCita":"CITA-ERROR","paciente":null,"correo":null,"especialidad":null,"fechaCita":null,"sede":null,"valor":-1}
