@@ -135,8 +135,6 @@ La API valida campos obligatorios y que `valor` sea mayor a 0. Las solicitudes i
 
 ## 10. Evidencia esperada para verificar el funcionamiento
 
-Para completar el informe, se deben adjuntar capturas de:
-
 1. Aplicacion Spring Boot ejecutandose sin errores.
 2. RabbitMQ levantado con Docker Compose.
 3. Request valido enviado desde Postman, curl o Swagger.
@@ -148,8 +146,6 @@ Para completar el informe, se deben adjuntar capturas de:
 9. Archivo `data/errors/citas-rechazadas.log` con una cita invalida.
 
 ## Repositorio GitHub
-
-El informe debe contener el enlace publico real del repositorio. URL sugerida si ese usuario esta disponible:
 
 ```text
 https://github.com/Jonalex1804/progreso2-integracion-granja-jonathan
