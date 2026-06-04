@@ -1,2 +1,5 @@
 idCita,paciente,correo,especialidad,fechaCita,sede,valor
 CITA-1001,Ana Torres,ana.torres@email.com,Cardiologia,2026-06-15,Centro Norte,45.5
+CITA-1001,Ana Torres,ana.torres@email.com,Cardiologia,2026-06-15,Centro Norte,45.50
+CITA-1002,Carlos Perez,carlos.perez@email.com,Pediatria,2026-06-20,Centro Sur,60.00
+CITA-1002,Carlos Perez,carlos.perez@email.com,Pediatria,2026-06-20,Centro Sur,60.00

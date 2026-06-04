@@ -11,7 +11,7 @@
 
 ## Repositorio GitHub de la solucion
 
-Repositorio GitHub de la solucion: https://github.com/jonathangranja/progreso2-integracion-granja-jonathan
+Repositorio GitHub de la solucion: https://github.com/Jonalex1804/progreso2-integracion-granja-jonathan
 
 > Reemplazar el enlace anterior si el repositorio publico se crea con otro usuario de GitHub.
 

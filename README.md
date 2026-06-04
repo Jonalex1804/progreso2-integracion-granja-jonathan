@@ -152,5 +152,5 @@ Para completar el informe, se deben adjuntar capturas de:
 El informe debe contener el enlace publico real del repositorio. URL sugerida si ese usuario esta disponible:
 
 ```text
-https://github.com/jonathangranja/progreso2-integracion-granja-jonathan
+https://github.com/Jonalex1804/progreso2-integracion-granja-jonathan
 ```
